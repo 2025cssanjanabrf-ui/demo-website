@@ -1,0 +1,7 @@
+selectors
+* -universal
+#-id
+.-class
+<> -tag
+nav a - group selector
+element{property:val}
